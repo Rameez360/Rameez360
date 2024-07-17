@@ -119,7 +119,7 @@
 </a>
 
 
-![Rameez's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rameez360&custom_title=Aakif's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Rameez's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rameez360&custom_title=Rameez's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <table width="2000">
