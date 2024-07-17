@@ -48,8 +48,8 @@
   
  ✌️ &emsp; I ENJOY PROGRAMMING AND SHARING KNOWLEDGE <br/><br/>
  😄 &emsp; I LIKE PROVIDING TUTORIAL TO LEARNING ENTHUSIASTS <br></br>
- 📧 &emsp; REACH ME ANYTIME : aakifmohamed100@gmail.com <br/><br/>
- 💬 &emsp; ASK ME ABOUT ANTHING [HERE](https://github.com/aakif100/aakif100/issues)
+ 📧 &emsp; REACH ME ANYTIME : abdulrameez360@gmail.com <br/><br/>
+ 💬 &emsp; ASK ME ABOUT ANTHING [HERE](https://github.com/Rameez360/Rameez360/issues)
 
 </p>
 
@@ -64,7 +64,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -73,7 +72,8 @@
 <br/>
 
 ## Top Repositories -
-[![iot-workshop](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=iot-workshop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/iot-workshop)
+[![iot-workshop](https://github-readme-stats.vercel.app/api/pin/?username=Rameez360&repo=Movie-Booking&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rameez360/Movie-Booking)
+<!--
 [![HTML-Transitions-Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=HTML-Transitions-Tutorial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/HTML-Transitions-Tutorial)
 [![embed-club](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=embed-club&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/embed-club)
 [![Smart-Trolley-Project](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=Smart-Trolley-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/Smart-Trolley-Project)
@@ -82,7 +82,7 @@
 [![client1-website](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=client1-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/client1-website)
 [![fierce-console-UI-UX](https://github-readme-stats.vercel.app/api/pin/?username=aakif100&repo=fierce-console-UI-UX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aakif100/fierce-console-UI-UX)
 
-
+-->
 
 
 
