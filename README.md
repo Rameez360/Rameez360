@@ -10,14 +10,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>AAKIF MOHAMED</b>
+                <b>ABDUL RAMEEZ</b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAakif%2FMohamed&psig=AOvVaw1SO7bOfiQhGOUOMHYvfTvv&ust=1706708657638000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCKCVyqufhYQDFQAAAAAdAAAAABAE">「 Google Me!!! 」</a>
     <br>
     「 I AM A COMPUTER SCIENCE STUDENT AND A DEVELOPER from <b>MANGALORE INDIA </b> 」
     <br>
@@ -26,16 +25,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakif-mohamed-a96801222/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AAKIF LINKEDIN"/>
+  <a href="https://https://www.linkedin.com/in/abdul-rameez-488638253/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rameez"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/AakifMoahmed" target="_blank">
+ <a href="https://twitter.com/Rameez_360" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/aak.xif" target="_blank">
+ <a href="https://www.instagram.com/rameez_360" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM" />
  </a> 
 </p>
