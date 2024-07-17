@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/abdul-rameez-488638253/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-rameez-488638253/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rameez"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
